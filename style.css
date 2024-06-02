@@ -1,0 +1,220 @@
+body {
+    font-family: Arial, sans-serif;
+    /* App Landing Page */
+height: 100%;
+width: 100%;
+
+
+}
+
+.navbar {
+   width:500px;
+   margin-top: 50px;
+   margin-left: 150px;
+   background-color: red
+   
+}
+.collapse{
+    background-color: white;
+    justify-content: space-around;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Optional: If you want to center it vertically as well */
+    
+}
+.nav-link1{
+    color: red;
+}
+.nav-item{
+    margin-left: 30px;
+}
+.button{
+    margin-left: 300px;
+    background-color: black;
+    color:white;
+   width: 100px;
+}
+
+.container{
+    
+    text-decoration: none;
+    font-size: 16px;
+    color: red;
+   
+}
+.star-icon{
+    margin-left: 100px;
+    width: 64x;
+    height: 64px;
+}
+
+/* herocontainer start */
+
+.star-icon2{
+    width: 42;
+    height: 42;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+  }
+  
+  .left {
+    /* background-color: blueviolet; */
+    height: 100%;
+    width: 50%;
+  }
+  
+  .right {
+    background-color: red;
+    height: 100%;
+    width: 50%;
+  }
+#bg-img{
+    width: 317px;
+    height: 230px;
+    margin-left: 100px;
+    margin-top: 102px;
+}  
+/* over an a image */
+.clueless{
+    position:relative;
+  }
+  
+  #exp{
+    position:absolute;
+    left: 20%;
+    top: 50%;
+  
+    width: 400px;
+  }
+
+  .paragrap{
+    width: 636px;
+    height: 56px;
+    margin-left: 155px;
+  }
+
+ /* image set */
+  
+  .images {
+       position: relative;
+       display: flex;
+       width: 720px;
+       height: 720px;
+       right: -100px;
+  }
+  .image2{
+    position: relative;
+    right: 400px;
+    left:-1300px
+  }
+  .image3{
+    position: relative;
+    left: -600px;
+    top:50px
+  }
+  .image1{
+    position: relative;
+    right: 50px;
+    top:50px
+  }
+
+#bg-img1{
+  margin-left: -70px;
+   margin-top: -150px;
+   width:500px
+}
+
+.button{
+  height: 60px;
+  width: 180px;
+  margin-left: 150px;
+}
+.vedio{
+  width:154px;
+  height: 30px;
+  margin-left: 60px;
+}
+
+.Aimage{
+  width: 359px;
+  height: 300px;
+  margin-left: 100px;
+}
+.second-hero{
+  width: 1322px;
+  height: 719px;
+}
+#bg-img2{
+  width: 319px;
+  height: 285px;
+  margin-top: -900px;
+}
+#bg-img3{
+  margin-left: 1250px;
+  margin-top: -1000px;
+  width: 317px;
+  height: 237px;
+}
+.thard-hero{
+  width: 1239px;
+  height: 719px;
+  margin-left: 100px;
+}
+#bg-img4{
+  margin-left: 600px;
+  margin-top: -900px;
+  width: 327px;
+  height: 237px;
+}
+.four-hero{
+  width: 1244px;
+  height: 719px;
+}
+#bg-img5{
+  margin-left: 300px;
+  margin-top: -750px;
+  width: 397px;
+  height: 285px;
+}
+.five-hero{
+  width: 1185px;
+  height: 821px;
+}
+#bg-img6{
+  margin-left: 50px;
+  margin-top: -850px;
+  width: 397px;
+  height: 285px;
+}
+
+.six-hero{
+  width: 1090px;
+  height: 721px;
+  margin-left: 100px;
+}
+#bg-img7{
+  margin-left: 50px;
+  margin-top: -900px;
+  width: 397px;
+  height: 285px;
+}
+.seven-hero{
+width: 1090px;
+height: 508px;
+margin-left: 100px;
+margin-top: 100px;
+}
+
+.footer{
+  width: 1091px;
+height: 404px;
+margin-left: 100px;
+margin-top: 100px;
+}
